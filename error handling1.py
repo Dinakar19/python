@@ -4,5 +4,5 @@ try:
 except (KeyboardInterrupt):
      print("you should have entered a number..........program terminating....... ")
 except (ValueError):
-     print("Please checmk before you enter.......program terminating........")
+     print("Please check before you enter.......program terminating........")
 print("bye")
